@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Selection Game</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_text_exit">Exit</string>
+    <string name="button_text_reset">Reset</string>
+    <string name="alert_dialog_text_1">Game Over</string>
+    <string name="alert_dialog_text_2">Congratulations !! You have found all the</string>
+    <string name="button_text_ok">Ok</string>
+    <string name="button_text_new_game">New Game</string>
+
+</resources>
